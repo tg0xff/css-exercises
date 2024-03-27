@@ -6,3 +6,8 @@
 .foo.bar {
   font-size: 24px;
 }
+
+#baz {
+  color: blue;
+  font-size: 36px;
+}
