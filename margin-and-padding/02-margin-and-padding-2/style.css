@@ -10,6 +10,10 @@ body {
   padding: 8px;
 }
 
+.card > * {
+  margin-bottom: 8px;
+}
+
 .title {
   background: #e3f4ff;
 }
