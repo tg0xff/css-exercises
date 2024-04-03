@@ -36,6 +36,10 @@ body {
   align-items: center;
 }
 
+.close-button {
+  flex-shrink: 0;
+}
+
 .header {
   font-size: 18px;
   font-weight: 800;
