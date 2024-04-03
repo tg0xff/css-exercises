@@ -50,9 +50,14 @@ a {
   align-items: center;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
+}
+
+.footer {
+  background-color: #eee;
 }
 
 .left-links,
@@ -61,8 +66,3 @@ a {
   gap: 16px
 }
 
-.footer {
-  display: flex;
-  justify-content: space-between;
-  background-color: #eee;
-}
