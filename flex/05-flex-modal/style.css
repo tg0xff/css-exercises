@@ -33,6 +33,7 @@ body {
 
 .modal-top {
   display: flex;
+  align-items: center;
 }
 
 .header {
