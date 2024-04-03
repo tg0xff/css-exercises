@@ -39,6 +39,7 @@ ul {
   background: royalblue;
   box-sizing: border-box;
   flex: 1;
+  padding: 10px;
 }
 
 .card {
