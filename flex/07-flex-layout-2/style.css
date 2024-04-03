@@ -22,6 +22,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  flex: 1;
 }
 
 .card {
@@ -33,4 +34,8 @@ body {
 .content {
   flex: 1;
   display: flex;
+}
+
+.cards {
+  flex: 5;
 }
