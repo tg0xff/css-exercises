@@ -11,6 +11,11 @@ ul {
   padding: 0;
 }
 
+.sidebar a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
