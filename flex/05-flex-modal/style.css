@@ -25,6 +25,12 @@ body {
   gap: 16px;
 }
 
+.modal-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
