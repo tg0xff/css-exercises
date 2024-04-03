@@ -6,6 +6,8 @@ body {
   overflow: hidden;
   font-family: Roboto, sans-serif;
   padding: 16px;
+  display: flex;
+  flex-direction: column;
 }
 
 img {
@@ -35,6 +37,10 @@ ul {
 a {
   text-decoration: none;
   color: #555;
+}
+
+.content {
+  flex: 1;
 }
 
 .header {
