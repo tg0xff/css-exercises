@@ -24,8 +24,8 @@ ul {
   display: flex;
   align-items: center;
   padding-left: 10px;
-  font-size: 20pt;
-  font-weight: 1000;
+  font-size: 32px;
+  font-weight: 900;
 }
 
 .footer {
