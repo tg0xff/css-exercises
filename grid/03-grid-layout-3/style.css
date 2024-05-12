@@ -127,6 +127,8 @@
 .footer {
   background-color: #393f4d;
   grid-area: footer;
+  display: grid;
+  place-items: center;
 }
 
 .footer p {
