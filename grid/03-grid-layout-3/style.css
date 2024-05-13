@@ -7,6 +7,7 @@
   text-align: center;
   display: grid;
   grid-template-columns: 1fr 4fr;
+  grid-row: repeat(4, 1fr);
   grid-template-areas:
     "header header"
     "sidebar nav"
