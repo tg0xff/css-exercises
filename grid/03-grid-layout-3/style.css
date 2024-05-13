@@ -13,7 +13,7 @@
     "sidebar nav"
     "sidebar article"
     "footer footer";
-  gap: 4px
+  gap: 4px;
 }
 
 .container div {
@@ -51,7 +51,7 @@
 }
 
 .sidebar {
-  background-color: #C50208;
+  background-color: #c50208;
   grid-area: sidebar;
   display: grid;
   grid-template-rows: repeat(4, 1fr);
@@ -68,7 +68,6 @@
   place-items: center;
 }
 
-
 .sidebar .side-content {
   background-color: white;
   color: black;
@@ -79,7 +78,7 @@
 }
 
 .nav {
-  background-color: #C50208;
+  background-color: #c50208;
   grid-area: nav;
 }
 
@@ -109,7 +108,7 @@
 }
 
 .article .card {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: black;
   text-align: center;
 }
